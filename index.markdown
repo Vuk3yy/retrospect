@@ -19,7 +19,7 @@ layout: home
                 </ul>
             </div>
         </article>
-    {% endfor%}
+    {% endfor %}
     </div>
 </section>
 
