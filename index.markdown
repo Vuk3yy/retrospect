@@ -14,7 +14,7 @@ layout: home
                 <h2>{{ post.title }}</h2>
                 <ul class="actions">
                     <li>
-                        <a href="{{ site.baseurl} }/{{ post.url }}" class="button alt">More</a>
+                        <a href="{{ site.baseurl }}/{{ post.url }}" class="button alt">More</a>
                     </li>
                 </ul>
             </div>
